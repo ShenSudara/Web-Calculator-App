@@ -1,0 +1,2 @@
+# Web Calculator App
+ This Web Calculator App has been designed and developed for learning, practicing, and enhancing my skills in HTML, CSS, and JavaScript. This calculator app has been developed to enable you to delve deep into the world of front-end web development.  The web calculator app provides an opportunity to experiment with coding techniques and gain beginner experience in the development of functional and visually appealing web projects. 
